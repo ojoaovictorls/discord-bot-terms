@@ -1,21 +1,25 @@
-# discord-bot-terms
-Minecraft Badrock Manger
-Terms of Service
+# Discord Minecraft Bedrock Control Bot
 
-This Discord bot is provided "as is" for private and personal use.
+This project is a private Discord bot designed to remotely control a Minecraft Bedrock Dedicated Server using Discord commands.
 
-## Usage
-- This bot is intended to control a private Minecraft Bedrock server.
-- Only authorized users may use its commands.
+## Features
+- Start and stop Minecraft Bedrock Server remotely
+- Start and stop playit.gg tunnel
+- Check server online/offline status
+- Secure and private usage
+- Designed for small private servers
 
-## Data Collection
-- The bot does not store personal data.
-- The bot only reads messages to execute commands.
+## Requirements
+- Windows 10 or higher
+- Node.js v18+
+- Minecraft Bedrock Dedicated Server
+- playit.gg client
+- Discord Bot Token
 
-## Liability
-- The bot owner is not responsible for any data loss, server downtime, or misuse.
-
-## Changes
-- These terms may be updated at any time.
-
-Last updated: 2025
+## Project Structure
+discord-server-control/
+├─ index.js
+├─ .env
+├─ package.json
+├─ node_modules/
+└─ README.md
