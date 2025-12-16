@@ -56,7 +56,7 @@ node index.js
 
 The bot will remain online as long as the terminal is open.
 
-Security Notes
+## Security Notes
 
 This bot is intended for private use only
 
@@ -66,12 +66,12 @@ Restrict command usage to trusted users
 
 Avoid using administrator permissions
 
-Disclaimer
+## Disclaimer
 
 This software is provided "as is".
 The author is not responsible for server downtime, data loss, or misuse.
 
-License
+## License
 
 This project is for personal and educational use only.
 
